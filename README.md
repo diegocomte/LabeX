@@ -1,7 +1,4 @@
-# LabeX
-
-## Site 
-[LabeX](http://stereotyped-quiet.surge.sh/)
+# [LabeX](http://stereotyped-quiet.surge.sh/)
 - Usuário: diego@moreira.com
 - Senha: 1234
 
@@ -11,7 +8,7 @@ O LabeX tem por objetivo emular um site de viagens espaciais. Desenvolvemos o ap
 
 
 ## Desenvolvedor
-[Diego Conte](https://github.com/diegocomte)\
+[Diego Conte](https://github.com/diegocomte)
 
 
 ## Instalação
@@ -32,5 +29,5 @@ $ npm start
 
 ## Sites e Recursos
 [LabeX](https://documenter.getpostman.com/view/9133542/TzCTZkQr#8a33bdc0-aaae-45fd-92c7-7ebb2e7923ee)\
-[Postman](https://www.postman.com/)\
+[Postman](https://www.postman.com/)
 
