@@ -4,7 +4,7 @@
 
 
 ## Descrição do Projeto
-O LabeX tem por objetivo emular um site de viagens espaciais. Desenvolvemos o aplicativo seguindo o conceito desktop first e visando à melhor experiência do usuário.
+O LabeX tem por objetivo emular um site de viagens espaciais. Desenvolvi o site seguindo o conceito desktop first e visando à melhor experiência do usuário.
 
 
 ## Desenvolvedor
